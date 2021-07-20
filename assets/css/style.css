@@ -423,6 +423,10 @@ section {
   position: relative;
 }
 
+.whitetext{
+  color: white;
+}
+
 .section-title {
   text-align: center;
   padding-bottom: 30px;
