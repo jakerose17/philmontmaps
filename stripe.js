@@ -1,0 +1,1 @@
+var stripe = Stripe('pk_test_51JFOAlASkWSxItGJzaVNXYe0ARSfj6Q68XlShodjanhEcRSlxMMRP6yS5HE7CuV1qS1jJS3ie8jc47MUj9d6hqxF00JpzE3ONL');
